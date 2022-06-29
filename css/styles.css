@@ -1,0 +1,11 @@
+section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: aqua;
+}
+.container {
+    width: 1200px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
